@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suite">
+
+<listeners>
+<listener class-name="com.MyFrame.utilities.reporting" />
+</listeners>
+
+
+  <test name="Test">
+	 	<parameter name="browser" value="chrome" />
+	    <classes>
+			      <class name="com.MyFrame.Testcases.TC_Loginpage_001">
+			      <methods>
+			        <include name="loginTest" />
+			      </methods>
+			      </class>
+	    </classes>
+    
+   </test> <!-- Test -->
+   
+
+  
+  
+</suite> <!-- Suite -->

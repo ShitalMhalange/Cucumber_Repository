@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.MyFrame.utilities.reporting"/>
+  </listeners>
+  <test name="Test">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.MyFrame.Testcases.TC_Loginpage_001"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test1">
+    <parameter name="browser" value="FirefoxDriver"/>
+    <classes>
+      <class name="com.MyFrame.Testcases.TC_Loginpage_001"/>
+    </classes>
+  </test> <!-- Test1 -->
+  <test name="Test1(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.MyFrame.Testcases.TC_Loginpage_001">
+        <methods>
+          <include name="loginTest"/>
+          <include name="tesrdown"/>
+          <include name="setup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.MyFrame.Testcases.TC_Loginpage_001 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test name="Test1(failed)">
+    <parameter name="browser" value="FirefoxDriver"/>
+    <classes>
+      <class name="com.MyFrame.Testcases.TC_Loginpage_001">
+        <methods>
+          <include name="loginTest"/>
+          <include name="tesrdown"/>
+          <include name="tesrdown"/>
+          <include name="setup"/>
+          <include name="setup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.MyFrame.Testcases.TC_Loginpage_001 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test name="Test1(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.MyFrame.Testcases.TC_Loginpage_001">
+        <methods>
+          <include name="loginTest"/>
+          <include name="tesrdown"/>
+          <include name="tesrdown"/>
+          <include name="setup"/>
+          <include name="setup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.MyFrame.Testcases.TC_Loginpage_001 -->
+    </classes>
+  </test> <!-- Test1(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

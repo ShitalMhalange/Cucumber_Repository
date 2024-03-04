@@ -1,0 +1,488 @@
+01-31-2024 12:12:28 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 12:13:44 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 12:13:44 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 12:20:39 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 12:20:50 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 12:20:50 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 12:20:50 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 12:26:01 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 12:26:12 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 12:26:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 12:26:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 12:27:08 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 12:27:19 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 12:27:29 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 12:27:30 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 12:27:36 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+01-31-2024 12:27:37 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+01-31-2024 12:27:50 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+01-31-2024 12:27:50 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+01-31-2024 12:27:50 TC_Loginpage_001.java INFO  [main] MyFrameWork 32 - Login unsuccessful
+01-31-2024 12:29:10 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 12:29:23 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 12:29:32 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 12:29:32 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 12:29:32 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+01-31-2024 12:29:32 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+01-31-2024 12:29:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+01-31-2024 12:30:24 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 12:30:35 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 12:30:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 12:30:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 12:30:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+01-31-2024 12:30:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+01-31-2024 12:30:49 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+01-31-2024 12:30:49 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+01-31-2024 12:30:49 TC_Loginpage_001.java INFO  [main] MyFrameWork 32 - Login unsuccessful
+01-31-2024 12:32:26 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 12:32:37 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 12:32:51 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 12:32:51 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 12:32:51 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+01-31-2024 12:32:51 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+01-31-2024 12:33:01 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+01-31-2024 12:33:01 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+01-31-2024 12:33:01 TC_Loginpage_001.java INFO  [main] MyFrameWork 32 - Login unsuccessful
+01-31-2024 12:33:45 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 12:33:57 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 12:34:05 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 12:34:05 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 12:34:06 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+01-31-2024 12:34:06 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+01-31-2024 12:34:13 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+01-31-2024 12:34:13 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+01-31-2024 17:27:21 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 17:27:54 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 17:28:24 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 17:29:29 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 17:30:34 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 17:30:44 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 17:30:59 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+01-31-2024 17:31:00 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+01-31-2024 17:52:39 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 17:52:59 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 17:53:31 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 17:53:31 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 17:53:31 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+01-31-2024 17:53:31 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+01-31-2024 17:53:36 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+01-31-2024 17:55:22 Baseclass.java INFO  [main] MyFrameWork 44 - Going to launch
+01-31-2024 17:55:36 Baseclass.java INFO  [main] MyFrameWork 47 - successfully launch
+01-31-2024 17:55:48 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+01-31-2024 17:55:48 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+01-31-2024 17:55:48 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+01-31-2024 17:55:48 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+01-31-2024 17:55:51 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+01-31-2024 17:55:51 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-19-2024 16:08:58 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 16:09:32 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 16:09:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 16:09:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 16:09:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-19-2024 16:09:47 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-19-2024 16:09:50 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-19-2024 16:09:50 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-19-2024 16:10:21 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 16:11:35 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 16:11:50 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 16:11:54 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 16:11:54 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 16:29:07 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 16:37:53 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 16:38:04 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 16:38:25 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 16:38:25 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 16:38:25 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-19-2024 16:38:25 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-19-2024 16:38:27 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-19-2024 16:38:27 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-19-2024 16:38:28 Baseclass.java INFO  [main] MyFrameWork 46 - Going to launch
+02-19-2024 16:44:17 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 16:44:25 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 16:44:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 16:44:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 16:44:34 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-19-2024 16:44:34 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-19-2024 16:44:36 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-19-2024 16:44:36 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-19-2024 16:44:37 Baseclass.java INFO  [main] MyFrameWork 46 - Going to launch
+02-19-2024 16:44:44 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 16:44:48 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 16:45:00 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 16:45:00 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 22:01:28 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 22:01:50 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 22:01:54 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 22:02:02 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 22:06:22 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 22:06:59 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 22:08:53 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 22:08:53 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 22:08:54 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-19-2024 22:08:54 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-19-2024 22:09:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-19-2024 22:09:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-19-2024 22:09:28 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 22:10:54 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 22:13:34 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 22:13:34 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 22:26:17 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 22:26:40 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 22:27:20 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 22:27:21 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 22:27:23 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 22:27:30 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 22:29:20 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 22:29:33 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 22:31:37 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 22:31:37 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 22:31:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-19-2024 22:31:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-19-2024 22:31:44 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-19-2024 22:31:44 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-19-2024 22:39:15 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 22:39:47 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 22:40:58 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 22:40:58 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 22:40:58 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-19-2024 22:40:59 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-19-2024 22:41:16 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-19-2024 22:41:16 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-19-2024 23:28:45 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 23:29:04 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 23:29:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 23:29:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 23:29:20 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-19-2024 23:29:20 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-19-2024 23:29:27 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-19-2024 23:29:27 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-19-2024 23:40:16 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-19-2024 23:40:59 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-19-2024 23:41:16 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-19-2024 23:41:16 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-19-2024 23:41:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-19-2024 23:41:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-19-2024 23:41:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-19-2024 23:41:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 00:09:39 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 00:10:22 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 00:10:50 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 00:10:51 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 00:10:52 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 00:10:52 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 00:10:58 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 00:10:58 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 00:12:38 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 00:13:42 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 00:14:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 00:14:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 00:14:20 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 00:14:20 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 00:14:31 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 00:14:31 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 00:20:29 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 00:21:20 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 00:21:30 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 00:21:31 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 00:21:31 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 00:21:31 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 00:21:37 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 09:03:46 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 09:04:06 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 09:04:21 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 09:04:21 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 09:04:22 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 09:04:22 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 09:04:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 09:04:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 09:04:27 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+02-20-2024 09:04:27 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+02-20-2024 09:04:27 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02-20-2024 09:04:27 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02-20-2024 09:04:27 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/E:/software%20testing_notes/program%20files/extent/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02-20-2024 09:06:55 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 09:07:03 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 09:07:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 09:07:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 09:07:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 09:07:26 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 09:07:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 09:07:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 09:07:33 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+02-20-2024 09:07:33 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+02-20-2024 09:07:33 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02-20-2024 09:07:33 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02-20-2024 09:07:33 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/E:/software%20testing_notes/program%20files/extent/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02-20-2024 09:09:46 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 09:10:01 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 09:10:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 09:10:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 09:10:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 09:10:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 09:10:22 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 09:10:22 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 09:10:22 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+02-20-2024 09:10:22 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+02-20-2024 09:10:22 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02-20-2024 09:10:22 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02-20-2024 09:10:22 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/E:/software%20testing_notes/program%20files/extent/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02-20-2024 11:24:05 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 11:24:51 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 11:25:09 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 11:25:09 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 11:25:10 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 11:25:10 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 11:25:13 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 11:25:13 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 11:25:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+02-20-2024 11:25:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+02-20-2024 11:25:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02-20-2024 11:25:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02-20-2024 11:25:14 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/E:/software%20testing_notes/program%20files/extent/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02-20-2024 11:35:11 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 11:35:33 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 11:35:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 11:35:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 11:35:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 11:35:46 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 11:35:48 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 11:35:48 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 11:35:49 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+02-20-2024 11:35:49 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+02-20-2024 11:35:49 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02-20-2024 11:35:49 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02-20-2024 11:35:49 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/E:/software%20testing_notes/program%20files/extent/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02-20-2024 11:40:15 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 11:40:27 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 11:40:48 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 11:40:48 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 11:40:49 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 11:40:49 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 11:40:51 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 11:40:51 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 11:40:51 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+02-20-2024 11:40:51 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+02-20-2024 11:40:51 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02-20-2024 11:40:51 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02-20-2024 11:40:51 _Log4jLoggerFactory.java DEBUG [main] freemarker.cache 45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/E:/software%20testing_notes/program%20files/extent/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02-20-2024 11:45:13 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 11:45:55 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 11:46:08 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 11:46:08 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 11:46:09 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 11:46:09 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 11:46:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 11:46:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 11:48:56 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 11:49:03 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 11:49:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 11:49:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 11:49:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 11:49:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 11:49:21 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 11:49:21 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 12:14:03 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 12:14:28 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 12:14:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 12:14:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 12:14:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 12:14:39 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 12:14:43 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 12:14:43 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 12:17:20 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 12:17:42 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 12:17:52 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 12:17:52 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 12:17:52 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 12:17:53 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 12:17:55 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 12:17:56 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 12:18:33 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 12:18:43 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 12:18:49 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 12:18:49 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 12:18:49 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 12:18:49 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 12:18:53 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 12:18:53 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 12:47:28 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 12:47:37 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 12:47:58 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 12:47:58 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 12:47:58 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 12:47:58 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 12:48:08 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 12:48:08 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 12:49:00 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 12:49:11 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 12:49:18 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 12:49:18 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 12:49:18 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 12:49:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 12:49:20 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 12:49:20 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 13:04:46 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 13:05:06 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 13:05:15 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 13:05:16 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 13:05:16 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 13:05:16 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 13:05:20 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 13:05:20 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 13:08:46 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 13:09:01 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 13:09:10 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 13:09:11 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 13:09:11 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 13:09:11 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 13:09:18 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 13:09:18 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 13:32:25 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 13:32:43 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 13:33:00 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 13:33:00 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 13:33:01 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 13:33:01 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 13:33:07 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 13:34:06 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 13:34:13 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 13:34:36 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 13:34:36 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 13:34:36 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 13:34:36 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 13:34:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 13:34:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 13:36:03 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 13:36:09 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 13:36:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 13:36:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 13:36:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 13:36:19 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 13:36:22 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 13:36:22 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 13:40:03 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 13:40:15 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 13:40:27 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 13:40:27 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 13:40:27 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 13:40:27 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 13:40:29 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 13:40:29 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 13:52:11 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 13:52:25 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 13:52:32 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 13:52:32 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 13:52:32 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 13:52:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 13:52:44 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 13:52:44 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 13:52:44 TC_Loginpage_001.java INFO  [main] MyFrameWork 38 - URI lunch successfully
+02-20-2024 13:52:44 TC_Loginpage_001.java INFO  [main] MyFrameWork 40 - Enter username
+02-20-2024 13:54:52 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 13:54:59 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 13:55:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 13:55:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 13:55:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 13:55:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 13:55:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 13:55:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 13:55:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 38 - URI lunch successfully
+02-20-2024 13:55:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 40 - Enter username
+02-20-2024 13:57:42 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 13:57:50 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 13:58:09 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 13:58:09 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 13:58:09 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 13:58:10 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 13:58:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 13:58:12 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 14:00:34 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 14:00:42 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 14:00:56 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 14:00:56 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 14:00:56 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 14:00:56 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 14:00:59 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 14:00:59 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 14:01:59 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 14:02:05 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 14:02:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 14:02:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 14:02:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 14:02:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 14:02:22 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 14:02:22 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 17:58:41 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 17:58:55 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 17:59:04 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 17:59:04 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 17:59:04 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 17:59:04 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 17:59:09 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 17:59:09 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 18:00:35 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 18:00:42 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 18:00:55 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 18:00:55 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 18:00:55 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 18:00:55 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 18:00:59 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 18:00:59 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 18:04:49 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 18:05:02 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 18:05:10 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 18:05:11 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 18:05:11 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 18:05:11 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 18:05:13 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 18:05:13 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 18:05:52 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 18:06:12 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 18:06:56 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 18:06:56 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 18:06:57 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 18:06:57 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 18:07:02 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 18:07:02 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 18:11:07 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 18:11:22 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 18:11:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 18:11:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 18:11:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 18:11:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 18:11:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 18:11:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 18:11:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 38 - URI lunch successfully
+02-20-2024 18:11:38 TC_Loginpage_001.java INFO  [main] MyFrameWork 40 - Enter username
+02-20-2024 18:15:28 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 18:15:35 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 18:15:45 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 18:15:45 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 18:15:45 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 18:15:45 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 18:15:47 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 18:15:47 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 18:19:57 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 18:20:03 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 18:20:14 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 18:20:14 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 18:20:15 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 18:20:15 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 18:20:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 18:20:17 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 18:48:09 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 18:48:16 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 18:48:25 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 18:48:25 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 18:48:25 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 18:48:25 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 18:48:29 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 18:48:29 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful
+02-20-2024 18:50:07 Baseclass.java INFO  [main] MyFrameWork 40 - Going to launch
+02-20-2024 18:50:17 Baseclass.java INFO  [main] MyFrameWork 42 - successfully launch
+02-20-2024 18:50:28 TC_Loginpage_001.java INFO  [main] MyFrameWork 15 - URI lunch successfully
+02-20-2024 18:50:28 TC_Loginpage_001.java INFO  [main] MyFrameWork 17 - Enter username
+02-20-2024 18:50:29 TC_Loginpage_001.java INFO  [main] MyFrameWork 19 - Enter username
+02-20-2024 18:50:29 TC_Loginpage_001.java INFO  [main] MyFrameWork 21 - Enter password
+02-20-2024 18:50:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 23 - click buton
+02-20-2024 18:50:33 TC_Loginpage_001.java INFO  [main] MyFrameWork 27 - Login successful

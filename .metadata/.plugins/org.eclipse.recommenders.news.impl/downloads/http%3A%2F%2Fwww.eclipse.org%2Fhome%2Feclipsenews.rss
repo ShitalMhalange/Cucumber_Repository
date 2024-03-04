@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://newsroom.eclipse.org/">
+  <channel>
+    <title>Eclipse Announcements</title>
+    <link>https://newsroom.eclipse.org/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>The Eclipse Foundation Showcases Successful Open Source Industry Collaborations for 2023; Looks Ahead to Additional Growth in 2024</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-showcases-successful-open-source-industry-collaborations-2023</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation Showcases Successful Open Source Industry Collaborations for 2023; Looks Ahead to Additional Growth in 2024&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-02-20T07:00:00-05:00" title="Tuesday, February 20, 2024 - 07:00"&gt;Tue, 2024-02-20 07:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;BRUSSELS – February 20, 2024 –&amp;nbsp;&lt;/strong&gt;&lt;a href="http://www.eclipse.org" rel="nofollow"&gt;&lt;u&gt;The Eclipse Foundation&lt;/u&gt;&lt;/a&gt;, one of the world’s largest open source foundations, today showcased its growing industry-leading collaborations, such as the&amp;nbsp;&lt;a href="https://adoptium.net/" rel="nofollow"&gt;&lt;u&gt;Eclipse Adoptium&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://jakarta.ee/" rel="nofollow"&gt;&lt;u&gt;Jakarta EE&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://open-vsx.org/" rel="nofollow"&gt;&lt;u&gt;Open VSX&lt;/u&gt;&lt;/a&gt;, and&amp;nbsp;&lt;a href="https://sparkplug.eclipse.org/" rel="nofollow"&gt;&lt;u&gt;Eclipse Sparkplug&lt;/u&gt;&lt;/a&gt; Working Groups.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;“While we’re thrilled with the growth of our industry collaborations in 2023, we’re always striving to exceed our own goals,” said Mike Milinkovich, executive director of the Eclipse Foundation. “This means expanding our role as the centre of gravity for open source Java, building on our amazing work in software-defined vehicles, and growing our leadership in open source IoT. We have a lot more in store for 2024, so we’re encouraging any organisation that relies on open source software or is interested in leveraging the innovation inherent in the open source foundation model to talk to us about how we can help them grow their business.”&lt;/p&gt;
+&lt;p dir="ltr"&gt;Overall, the Eclipse Foundation experienced significant expansion in 2023, adding 42 new members. New members, including Amazon, Cummins, GM, Google, Mercedes, Microsoft, and Qualcomm, demonstrate the quality and diversity of organisations that chose the Eclipse Foundation this year. Members like them are contributing to 21 separate&amp;nbsp;&lt;a href="https://www.eclipse.org/org/workinggroups/explore.php" rel="nofollow"&gt;&lt;u&gt;industry collaborations&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;From developer communities to open industry collaborations, the Eclipse Foundation enables people and organisations to collaboratively solve a spectrum of challenges, from funding business critical projects to developing specifications and establishing international standards. With a commitment to good governance, community development, and a vendor-neutral environment for advancing useful code, the Eclipse Foundation is a catalyst for world-class industry collaboration that drives innovation. Some notable milestones achieved through Eclipse Foundation collaborations in the past year include:&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;a href="https://jakarta.ee/" rel="nofollow"&gt;&lt;u&gt;Jakarta EE&lt;/u&gt;&lt;/a&gt;, the successor to Java EE, has experienced tremendous growth since its launch in 2018 as the vendor-neutral collaboration has successfully managed enterprise Java’s transition into the era of cloud native computing. Since its creation, the working group has delivered four major releases and expanded to 60 projects, supported by a collaborative community of 28 working group members and 114 committers. Jakarta EE has revitalised the enterprise Java ecosystem with industry players producing 71 new&amp;nbsp;&lt;a href="https://jakarta.ee/compatibility/" rel="nofollow"&gt;&lt;u&gt;Jakarta EE-compatible products&amp;nbsp;&lt;/u&gt;&lt;/a&gt;and growing. What’s more, Jakarta EE 10 has grown its share of the market to more than 17% since being released in late 2022. Even more impressive is that an estimated 60% of enterprises have adopted Jakarta EE or plan to do so in the near future.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;a href="https://adoptium.net/" rel="nofollow"&gt;&lt;u&gt;The Adoptium Working Group&lt;/u&gt;&lt;/a&gt;, which promotes and supports high-quality, TCK-certified runtimes and associated technologies, has seen a significant expansion in 2023. For example,&amp;nbsp;&lt;a href="https://adoptium.net/temurin/releases/?version=17" rel="nofollow"&gt;&lt;u&gt;Eclipse Temurin&lt;/u&gt;&lt;/a&gt;, a leading OpenJDK distribution with over 300 million downloads and counting, has demonstrated the group's commitment to delivering robust, secure, enterprise-ready technologies. With millions of developers and thousands of organisations turning to the&amp;nbsp;&lt;a href="https://adoptium.net/marketplace/" rel="nofollow"&gt;&lt;u&gt;Adoptium Marketplace&lt;/u&gt;&lt;/a&gt; for their open source Java runtimes, the working group has delivered 41 simultaneous builds since January 2022, supported by 84 dedicated contributors and 12 member companies, including Java ecosystem leaders and cloud hyperscalers.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;a href="https://open-vsx.org/" rel="nofollow"&gt;&lt;u&gt;Open VSX&lt;/u&gt;&lt;/a&gt;, a vendor-neutral open source marketplace for VS Code extensions, now has more than 3,100 extensions and more than 2 million monthly downloads.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;a href="https://sparkplug.eclipse.org/" rel="nofollow"&gt;&lt;u&gt;Sparkplug&lt;/u&gt;&lt;/a&gt;®, an open software specification that adds much-needed harmony to MQTT-based infrastructure, has recently been adopted as an ISO/IEC International Standard (ISO/IEC 20237).&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;The&amp;nbsp;&lt;a href="https://dataspace.eclipse.org/" rel="nofollow"&gt;&lt;u&gt;Eclipse Dataspace Working Group&lt;/u&gt;&lt;/a&gt; was introduced, with a focus on fostering new dataspaces based on open source technologies -- a critical element of the EU’s strategy for creating an innovative culture rooted in privacy and data sovereignty. These dataspaces facilitate seamless data exchange between private companies, governments, academia, and other institutions, creating an ecosystem for technology innovation that spans the European Union (EU) and beyond.&amp;nbsp;&lt;/li&gt;
+&lt;li dir="ltr"&gt;Microsoft announced that Azure RTOS, including all of its components, will be made available as the&amp;nbsp;&lt;a href="https://threadx.io/" rel="nofollow"&gt;&lt;u&gt;Eclipse ThreadX&lt;/u&gt;&lt;/a&gt; open source project. ThreadX, a mature technology with over 12 billion devices deployed, is particularly relevant to the IIoT and automotive industries. It is the only open source Real-Time Operating System (RTOS) with multiple safety and security certifications, including IEC 61508, IEC 62304, ISO 26262, and EN 50128 conformance certified by SGS-TÜV Saar. ThreadX has also achieved EAL4+ Common Criteria security certification. These certifications are a big differentiator and unprecedented in the industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;In support of this project, we also announced the creation of an&amp;nbsp;&lt;a href="https://projects.eclipse.org/interest-groups/threadx-interest-group" rel="nofollow"&gt;&lt;u&gt;interest group&lt;/u&gt;&lt;/a&gt; focused on developing a community-focused sustainable funding model for Eclipse ThreadX. Embedded industry leaders, including AMD, Arm, Cypherbridge, Ericsson, Linaro, Microsoft, NXP, PX5, Renesas, Silicon Labs, STMicroelectronics, Witekio (an Avnet company), and Zettascale have all committed to supporting this effort.&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides several key functions that enable world-class industry collaboration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Governance:&lt;/strong&gt; The foundation defines and maintains processes to enable vendor-neutral, open, and transparent governance, fostering the sustainability and long-term success of projects and collaborations aligned with community interests.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Community development:&amp;nbsp;&lt;/strong&gt;The Eclipse Foundation cultivates global communities around Eclipse projects and collaborative initiatives to grow a robust and diverse contributor pipeline.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Ecosystem development:&amp;nbsp;&lt;/strong&gt;The foundation recruits members and collaborates with related industry organisations and initiatives to foster a diverse open source ecosystem.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Branding and marketing:&amp;nbsp;&lt;/strong&gt;The foundation develops and implements strategies to establish and promote distinctive identities for our open source projects and industry collaborations.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Events:&amp;nbsp;&lt;/strong&gt;The foundation hosts events, both in-person and virtual, bringing together open source developers and industry stakeholders for networking, information-sharing, and collaboration on the latest technologies.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Specification development:&amp;nbsp;&lt;/strong&gt;TheEclipse Foundation helps our industry collaborations significantly reduce costs and streamline the effort to develop industry consensus specifications using the Eclipse Foundation Specification Process. As an approved JTC1 PAS submitter, select specifications can be proposed as international standards at ISO/IEC.&lt;/li&gt;
+&lt;li dir="ltr"&gt;&lt;strong&gt;Community recognition and rewards:&lt;/strong&gt; The foundation acknowledges and rewards committers, contributors, and community members for their efforts through awards, badges, articles, blogs, social media posts, and more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;Get started collaborating at the Eclipse Foundation by joining an existing community or bringing your industry-changing collaboration to the foundation. Find out more at&amp;nbsp;&lt;a href="https://www.eclipse.org/collaborations/" rel="nofollow"&gt;&lt;u&gt;eclipse.org/collaborations&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 415 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 350 members. To learn more, follow us on social media&amp;nbsp;&lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;&lt;u&gt;@EclipseFdn&lt;/u&gt;&lt;/a&gt;,&amp;nbsp;&lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;&lt;u&gt;LinkedIn&lt;/u&gt;&lt;/a&gt;, or visit&amp;nbsp;&lt;a href="http://eclipse.org" rel="nofollow"&gt;&lt;u&gt;eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;###&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Gloria Huppert, Franziska Wenzl&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+49 (89) 211 871 - 70 / - 58&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Jay Nichols&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;jay@nicholscomm.com&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;u&gt;514 Media Ltd&amp;nbsp;for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;benoit@514-media.com&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;M:&amp;nbsp;+44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39905 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Updates to the Eclipse Foundation Privacy Policy and Eclipse.org Terms of Use</title>
+  <link>https://newsroom.eclipse.org/news/announcements/updates-eclipse-foundation-privacy-policy-and-eclipseorg-terms-use</link>
+  <description>
+&lt;span&gt;Updates to the Eclipse Foundation Privacy Policy and Eclipse.org Terms of Use&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Christopher Guindon&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-02-15T08:55:21-05:00" title="Thursday, February 15, 2024 - 08:55"&gt;Thu, 2024-02-15 08:55&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;We updated our&amp;nbsp;&lt;a href="https://www.eclipse.org/legal/privacy.php" rel="nofollow"&gt;&lt;u&gt;Privacy Policy&lt;/u&gt;&lt;/a&gt; and our&amp;nbsp;&lt;a href="https://www.eclipse.org/legal/termsofuse.php" rel="nofollow"&gt;&lt;u&gt;Terms of Use&lt;/u&gt;&lt;/a&gt; on 15 February 2024.&lt;/p&gt;
+&lt;p dir="ltr"&gt;Key updates include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir="ltr"&gt;Alignment of our policies with recent changes in regulations, including the European Union’s Digital Services Act (DSA).&lt;/li&gt;
+&lt;li dir="ltr"&gt;Clarification that our platform and services are not meant for or targeted to anyone under the age of 16.&lt;/li&gt;
+&lt;li dir="ltr"&gt;Extension of the retention time for our logs from 90 days to one (1) year as part of our ongoing commitment to security and audits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr"&gt;These amendments reflect our dedication to transparency, compliance, and user protection. We encourage all users to familiarise themselves with the revised documents.&lt;/p&gt;
+&lt;p dir="ltr"&gt;If you have any questions or concerns regarding these revised policies, please contact&amp;nbsp;&lt;a href="mailto:privacy@eclipse.org" rel="nofollow"&gt;&lt;u&gt;privacy@eclipse.org&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Thu, 15 Feb 2024 13:55:21 +0000</pubDate>
+    <dc:creator>Christopher Guindon</dc:creator>
+    <guid isPermaLink="false">39896 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Vision Paper: Open Source Software in the Automotive Industry</title>
+  <link>https://newsroom.eclipse.org/news/announcements/vision-paper-open-source-software-automotive-industry</link>
+  <description>
+&lt;span&gt;Vision Paper: Open Source Software in the Automotive Industry&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Craig Frayne&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-02-02T12:02:13-05:00" title="Friday, February 2, 2024 - 12:02"&gt;Fri, 2024-02-02 12:02&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;The SDV Working Group is pleased to release a new Vision Paper &lt;em&gt;Open Source Software in the Automotive Industry&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The paper, authored by Johan Linåker, Senior Researcher at the RISE - Research Institutes of Sweden and Astor Nummelin Carlberg, Executive Director, OpenForum Europe (OFE), investigates the current state and future potential of open source software (OSS) in the automotive industry.&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+&lt;p&gt;As the automotive industry undergoes a transition from a primarily hardware-focused approach to becoming more software-centric, it faces challenges and opportunities that demand both introspection and action. The paper presents the following findings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Imperative for OSS Adoption:&lt;/strong&gt; OSS's adoption in the automotive landscape is more than a trend; it is a necessity. The competitiveness of the automotive industry in any region hinges on this adoption, addressing both the ability to leverage OSS and the willingness to share advancements. It is essential not only for technological advancement but also for navigating the complexities of strategic lock-in and ensuring digital sovereignty for an important European industry.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacity-building and the Shift to Software:&lt;/strong&gt; The transformation in the automotive industry, driven by electrification, autonomous driving, and other technological advancements, signals a clear transition from hardware to software. While these changes present opportunities, they also pose challenges too vast for single entities to address alone. The industry's historical hardware-centric focus sometimes acts as a barrier to embracing these shifts. Addressing these challenges requires an investment in capacity-building for OSS. Initiatives such as Open Source Program Offices (OSPO) are instrumental in fostering understanding, strategic utilisation of OSS, and in cultivating a future-ready culture. These structures make the sector appealing to the next generation of software talent.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges of the Traditional Model:&lt;/strong&gt; The conventional hierarchical supplier structure in the automotive industry often clashes with the collaborative ethos of OSS. Transitioning to an ecosystem-centric approach, grounded in OSS principles, is vital. Government intervention can act as a catalyst in facilitating this shift, providing both facilitation and financial support This intervention paves the way for a reimagined collaboration-competition dynamic.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rethinking Collaboration and Competition:&lt;/strong&gt; In contrast to sectors where software plays a foundational role, automotive firms often favour in-house software development, which limits their competitive advantage. Distinguishing between differentiating and generic technology is crucial, urging the industry to reassess its stance on collaboration and competition. Collaborative endeavours, particularly around software supply chain sustainability, emerge as the clear path forward.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Digital Sovereignty and Open Platforms:&lt;/strong&gt; Experts interviewed for this paper unanimously voiced the need for building future software-defined vehicle (SDV) platforms on OSS and open standards. In a world grappling with increasing regionalisation, the concept of "digital sovereignty" — the ability to make decisions independently and align with regional mandates — becomes even more significant. While this aspiration is paramount, the OSS model not only aligns with this vision but also contributes to the overarching goal of enhancing the industry's global competitiveness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Download&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Download the full paper at &lt;/strong&gt;&lt;a href="https://outreach.eclipse.foundation/oss-auto-vision" rel="nofollow"&gt;&lt;strong&gt;https://outreach.eclipse.foundation/oss-auto-vision&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/eclipse-sdv" hreflang="en"&gt;eclipse sdv&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/automotive" hreflang="en"&gt;automotive&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Fri, 02 Feb 2024 17:02:13 +0000</pubDate>
+    <dc:creator>Craig Frayne</dc:creator>
+    <guid isPermaLink="false">39873 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The 2024 State of Open Source Report Is Now Available</title>
+  <link>https://newsroom.eclipse.org/news/announcements/2024-state-open-source-report-now-available</link>
+  <description>
+&lt;span&gt;The 2024 State of Open Source Report Is Now Available&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Shanda Giacomoni&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-02-01T10:45:54-05:00" title="Thursday, February 1, 2024 - 10:45"&gt;Thu, 2024-02-01 10:45&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;The Eclipse Foundation collaborated with OpenLogic by Perforce&amp;nbsp;to produce this year’s report, which contains data collected from a global survey of more than 2,000 open source users (including many Eclipse Foundation members) working in various industries.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://www.perforce.com/press-releases/openlogic-perforce-release-2024-state-of-open-source-report"&gt;https://www.perforce.com/press-releases/openlogic-perforce-release-2024-state-o…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Thu, 01 Feb 2024 15:45:54 +0000</pubDate>
+    <dc:creator>Shanda Giacomoni</dc:creator>
+    <guid isPermaLink="false">39871 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Celebrating 20 Years of the Eclipse Foundation</title>
+  <link>https://newsroom.eclipse.org/news/announcements/celebrating-20-years-eclipse-foundation</link>
+  <description>
+&lt;span&gt;Celebrating 20 Years of the Eclipse Foundation&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2024-01-28T10:00:00-05:00" title="Sunday, January 28, 2024 - 10:00"&gt;Sun, 2024-01-28 10:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;Cheers to two decades of innovation, collaboration, and community. Watch our new video and join us in celebrating our community's journey by looking back at a few of the big moments and milestones from our first 20 years.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://www.youtube.com/watch?v=-8-FVSm9oAw"&gt;https://www.youtube.com/watch?v=-8-FVSm9oAw&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Sun, 28 Jan 2024 15:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39847 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title> Unveiling Open Code Experience</title>
+  <link>https://newsroom.eclipse.org/news/announcements/unveiling-open-code-experience</link>
+  <description>
+&lt;span&gt; Unveiling Open Code Experience&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Shanda Giacomoni&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-12-20T11:54:17-05:00" title="Wednesday, December 20, 2023 - 11:54"&gt;Wed, 2023-12-20 11:54&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;We’re thrilled to announce Open Code Experience 2024, a new conference for our vibrant community of communities. Watch for updates at opencode-x.org.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://blogs.eclipse.org/post/thabang-mashologu/unveiling-open-code-experience"&gt;https://blogs.eclipse.org/post/thabang-mashologu/unveiling-open-code-experience&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 20 Dec 2023 16:54:17 +0000</pubDate>
+    <dc:creator>Shanda Giacomoni</dc:creator>
+    <guid isPermaLink="false">39824 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Good News on the Cyber Resilience Act</title>
+  <link>https://newsroom.eclipse.org/news/announcements/good-news-cyber-resilience-act</link>
+  <description>
+&lt;span&gt;Good News on the Cyber Resilience Act&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Shanda Giacomoni&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-12-19T09:09:27-05:00" title="Tuesday, December 19, 2023 - 09:09"&gt;Tue, 2023-12-19 09:09&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;The European Union’s proposed Cyber Resilience Act (“CRA”) as the final revisions agreed to in the trilogue negotiations appear to largely exclude the open source community from its scope.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://eclipse-foundation.blog/2023/12/19/good-news-on-the-cyber-resilience-act/"&gt;https://eclipse-foundation.blog/2023/12/19/good-news-on-the-cyber-resilience-ac…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Tue, 19 Dec 2023 14:09:27 +0000</pubDate>
+    <dc:creator>Shanda Giacomoni</dc:creator>
+    <guid isPermaLink="false">39819 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The Eclipse Foundation Launches the Eclipse Dataspace Working Group to Foster Global Innovation in Trusted Data Sharing</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-launches-eclipse-dataspace-working-group-foster-global</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation Launches the Eclipse Dataspace Working Group to Foster Global Innovation in Trusted Data Sharing&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-12-05T07:00:00-05:00" title="Tuesday, December 5, 2023 - 07:00"&gt;Tue, 2023-12-05 07:00&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;&lt;strong&gt;BRUSSELS – December 5, 2023 – &lt;/strong&gt;&lt;a href="http://www.eclipse.org/" rel="nofollow"&gt;The Eclipse Foundation&lt;/a&gt;, one of the world’s largest open source software foundations, today announced the formation of the Eclipse Dataspace Working Group (WG). This new working group is tasked with fostering new dataspaces based on open source technologies via the seamless exchange of data between private companies, governments, academia, and other institutions to create an ecosystem for technology innovation that spans the European Union (EU) and beyond. Dataspaces are federated networks of trusted connections for sharing data to foster information sharing for mutual benefit. They are a critical element in the EU’s strategy for creating a culture of innovation built on privacy and data sovereignty values.&lt;/p&gt;
+&lt;p&gt;To achieve this goal, the Eclipse Dataspace Working Group will provide governance, guidance, and support for open source solutions that enable the development of and participation in dataspaces. The working group does not favour a specific industry or type of organisation. It is fully dedicated to enabling the global adoption of dataspace technologies to foster the creation and operation of trusted data-sharing ecosystems.&lt;/p&gt;
+&lt;p&gt;“Dataspaces support the sharing of federated, sovereign, and trusted data. In doing so, they enable new business models where multiple players can aggregate their data for their own benefit and create a trusted means of data exchange that is decentralised, egalitarian, and secure,” said Mike Milinkovich, executive director of the Eclipse Foundation. “Open source software is the most logical means of building this new reality, and the Eclipse Foundation provides the ideal vendor-neutral ‘code first’ governance model to bring this future to life.”&lt;/p&gt;
+&lt;p&gt;The mission of the Eclipse Dataspace WG is to provide a forum for individuals and organisations to build and promote open source software, specifications, and collaboration models needed to create scalable, industry-ready components based on open standards for dataspaces. Founding members of the working group include a diverse set of organisations from both the public and private spheres, including Amadeus, Fraunhofer, IDSA, iShare, Microsoft, and T-Systems. The Eclipse Dataspace WG will focus on participating in standards development, implementation, and onboarding of existing open source projects, and guiding associated projects in alignment with the overarching goal of supporting a broad ecosystem of interoperable dataspaces.&lt;/p&gt;
+&lt;p&gt;To this end, the working group aims to foster a component-driven model that supports project collections in three distinct groups:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dataspace Core &amp;amp; Protocols (DCP):&lt;/strong&gt; DCP focuses on the core protocol specifications and their standardisation. It also provides alignment between the protocol specifications and OSS projects implementing mandatory dataspace functionality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dataspace Data Planes &amp;amp; Components (DDPC): &lt;/strong&gt;DDPC focuses on alignment between projects that implement data plans, which are essential components for dataspaces, as well as additional optional elements that enable advanced dataspace scenarios. These include projects that are not essential to create a viable dataspace but add capabilities that increase the business value of dataspaces.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dataspace Authority &amp;amp; Management (DAM): &lt;/strong&gt;DAM focuses on the alignment of tools and workflows to enable the implementation of dataspaces. Its associated projects will support Dataspace Authorities to manage their dataspaces. This includes policy management, member management, and starter kits for dataspace authorities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall, the three endeavours aim to create an ecosystem of projects covering diverse aspects of dataspace solutions. Implementations are non-exclusive, and overlapping projects can exist. Protocols will be the unifying aspect between projects, providing minimum viable interoperability.&lt;/p&gt;
+&lt;p&gt;“By nurturing implementations and specifications, we aim to elevate dataspaces as a vital component in future data-driven businesses. Alongside projects like Eclipse Cross Federation Services Components, Asset Administration Shell initiatives, and Tractus-X, the Catena-X reference implementation, we've established a unique ecosystem for Digital Sovereignty under the well-proven governance model of the Eclipse Foundation,” said Michael Plagge, VP, Ecosystem Development at the Eclipse Foundation.&lt;/p&gt;
+&lt;p&gt;The Eclipse Dataspaces WG will also collaborate with existing organisations involved with dataspaces, including the &lt;a href="https://internationaldataspaces.org/" rel="nofollow"&gt;International Data Spaces Association&lt;/a&gt; (IDSA), &lt;a href="https://ishare.eu/" rel="nofollow"&gt;iSHARE Foundation&lt;/a&gt; (iSHARE) and &lt;a href="https://catena-x.net/en/" rel="nofollow"&gt;Catena-X&lt;/a&gt;, among others. Together with the Eclipse Dataspaces WG, these organisations will support one another in a host of ventures, including the formation of new dataspaces initiatives, the creation of Technical Compatibility Kits, and driving consensus around product roadmaps and new capabilities.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For any organisation, including enterprises, technology vendors, cloud providers, academic departments, or government organisations, the Eclipse Dataspaces WG is a unique opportunity to help shape the future of technology development in the EU. Membership in the working group not only supports the sustainability of the community but also provides avenues for participating in marketing initiatives and direct engagement with a diverse array of EU organisations building new technology. Discover the numerous benefits and advantages of membership &lt;a href="https://www.eclipse.org/org/workinggroups/dataspace-charter.php" rel="nofollow"&gt;here&lt;/a&gt;. Your involvement can help drive the future of dataspaces around the world.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quotes from Eclipse Dataspaces Working Group Member Organizations&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Amadeus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“Dataspaces have the potential to create new dynamics and foster innovation in many domains and could really be game changers to help connect ecosystems across the tourism industry,” says Nikolaus Samberger, Senior Vice-President Engineering at Amadeus. “As a strategic member of the Eclipse Dataspace Working Group, we at Amadeus, are very excited to be launching this collaborative initiative that will no doubt play a key role in the global dataspace ecosystem.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fraunhofer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“For the success of dataspaces, it is required to bring together various stakeholders from different countries, domains, sizes, and interests and provide a neutral place for dialog and collaboration to formulate the joint vision of data sharing,” said Prof. Dr.-Ing Boris Otto, Director, Fraunhofer ISST (Fraunhofer Institute for Software and Systems Engineering). “With the launch of the Eclipse Dataspace Working Group, we now also provide such a place to jointly transfer the vision into technical specification and technologies. Within the EDWG, we can leverage the mutual benefits of open source and the best practices of the Eclipse Foundation.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IDSA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“Data spaces have reached a level of maturity and adoption which requires a strong governance framework to build business-relevant services that allow data sharing while maintaining data sovereignty,” said Sebastian Steinbuss, CTO at IDSA. “We are happy to be part of the Eclipse Foundation community in the Dataspace Working Group, to expand the community of data space enthusiasts in the field of Open Source Software.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iSHARE Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“Data Sovereignty for all has been the commitment and focus of iSHARE since its start in 2015. This is realised through the comprehensive and stable triangle of legal coverage, participant governance, and technical components. This enables Data Owners to maintain full (legal and technical) control of their data with any service provider or connector,” said Gerard van der Hoeven, Executive Director of the iSHARE Foundation. “Through open-source components for Participant Governance, a consent and authorization registry controlled by Data Owners, and Data Service providers, data spaces based on iSHARE Trust Framework have empowered thousands of businesses to control access to and usage of their data.”&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;“This step to bring the existing open-source technical components for data space governance into the EDSWG is important because it strengthens the collaboration with the open-source communities, with peers like IDSA and Gaia-X, and simplifies the creation of new commercial services, opening more data sources to be governed. But most of all, it enables many more data spaces to take advantage of the fully distributed and interoperable data sovereignty and trust that the non-profit iSHARE framework brings.”&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Microsoft&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“We believe dataspaces are a crucial enabler of trusted data sharing across every company, large or small, in every industry,” said Ulrich Homann, Corporate Vice President &amp;amp; Distinguished Architect, Microsoft. “We have the responsibility to come together to support open source software and the associated open specifications that enable autonomy and agency of participants in a dataspace.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;T-Systems&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“We’re thrilled to be part of Eclipse Dataspace Working Group,” said Christoph Gerkum, vice president, Data Intelligence for Dataspace &amp;amp; Data Products, T-Systems International GmbH. “As dataspaces pioneers, Telekom Data Intelligence Hub has shaped the ecosystem with projects like EuroDaT, GAIA-X Future Mobility, and Catena-X. Over +5 years, we’ve dedicated ourselves to open source technologies, community adaptation, and building trust in dataspaces. This collaboration propels us into the future, simplifying dataspaces participation and elevating our collaboration to new heights. We won’t stop until everything is connected and interoperable.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 425 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 350 members. To learn more, follow us on social media @EclipseFdn, LinkedIn or visit eclipse.org.&lt;/p&gt;
+&lt;p&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p&gt;###&lt;br&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Gloria Huppert, Franziska Wenzl&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;+49 (89) 211 871 - 70 / - 58&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Jay Nichols&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;jay@nicholscomm.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;514 Media Ltd for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;benoit@514-media.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;M: +44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Image&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;img loading="lazy" src="https://newsroom.eclipse.org/sites/default/files/news/2.png" width="1600" height="900" alt class="img-responsive"&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/dataspaces" hreflang="en"&gt;dataspaces&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/dataspaces-gaia-x" hreflang="en"&gt;Dataspaces Gaia-X&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 05 Dec 2023 12:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39801 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse Mosquitto Security Audit Has Been Completed</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-mosquitto-security-audit-has-been-completed</link>
+  <description>
+&lt;span&gt;Eclipse Mosquitto Security Audit Has Been Completed&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-11-29T09:04:29-05:00" title="Wednesday, November 29, 2023 - 09:04"&gt;Wed, 2023-11-29 09:04&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;We’re excited to announce that the Eclipse Foundation has successfully conducted a security audit for Eclipse Mosquitto, marking our fourth project audit this year.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-mosquitto-security-audit-has-been-completed"&gt;https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-mosquitto-security-a…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 29 Nov 2023 14:04:29 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39796 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Introducing Eclipse ThreadX</title>
+  <link>https://newsroom.eclipse.org/news/announcements/introducing-eclipse-threadx</link>
+  <description>
+&lt;span&gt;Introducing Eclipse ThreadX&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-11-21T12:28:45-05:00" title="Tuesday, November 21, 2023 - 12:28"&gt;Tue, 2023-11-21 12:28&lt;/time&gt;
+&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;Eclipse Foundation executive director&amp;nbsp;Mike Milinkovich explores why Eclipse ThreadX is exactly what the embedded real-time software market needs, and shares what’s next for the project in his new blog.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://blogs.eclipse.org/post/mike-milinkovich/introducing-eclipse-threadx"&gt;https://blogs.eclipse.org/post/mike-milinkovich/introducing-eclipse-threadx&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/open-source" hreflang="en"&gt;open source&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 21 Nov 2023 17:28:45 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39780 at https://newsroom.eclipse.org</guid>
+    </item>
+
+  </channel>
+</rss>
